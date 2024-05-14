@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.bored.app-mergeDebugResources-45:/layout/item_board.xml",
+        "source": "com.example.bored.app-main-48:/layout/item_board.xml"
+    },
+    {
+        "merged": "com.example.bored.app-mergeDebugResources-45:/layout/activity_main.xml",
+        "source": "com.example.bored.app-main-48:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.bored.app-mergeDebugResources-45:/layout/fragment_board.xml",
+        "source": "com.example.bored.app-main-48:/layout/fragment_board.xml"
+    },
+    {
+        "merged": "com.example.bored.app-mergeDebugResources-45:/layout/fragment_home.xml",
+        "source": "com.example.bored.app-main-48:/layout/fragment_home.xml"
+    }
+]
